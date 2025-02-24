@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "261972943390",
+    "project_id": "srishtiauth",
+    "storage_bucket": "srishtiauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261972943390:android:2cd15d91737331d623c40f",
+        "android_client_info": {
+          "package_name": "com.example.w3dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261972943390-sjpu9k4bbl364jvsqm80lrn8scfnn43i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx82WJHZMwJ6Xpwc46UtsU3Z-dn0YDyyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261972943390-sjpu9k4bbl364jvsqm80lrn8scfnn43i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "261972943390-72hp2nnd5bjd0lelldue1n7c6vcfu0ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.w3dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
